@@ -1,5 +1,5 @@
 
-Predict affnity
+Predict affnity (bash)
 
 ```{bash}
 ## extract the first column
@@ -17,7 +17,7 @@ all /data/result -b 10000000 -e1 7,8,9,10 -t 28 \
 ```
 
 
-Summerize result to peptide level
+Summerize result to peptide level (R)
 
 ```{r}
 

@@ -1,3 +1,6 @@
+
+Predict affnity
+
 ```{bash}
 ## extract the first column
 awk -F'\t' '{print ">" $1 "\n" $1}' peptide.tsv > output.fa
